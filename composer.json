@@ -1,20 +1,5 @@
 {
     "name": "seo2websites/browser-kit",
-    "type": "library",
-    "description": "Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically",
-    "keywords": [],
-    "homepage": "https://symfony.com",
-    "license": "MIT",
-    "authors": [
-        {
-            "name": "Fabien Potencier",
-            "email": "fabien@symfony.com"
-        },
-        {
-            "name": "Symfony Community",
-            "homepage": "https://symfony.com/contributors"
-        }
-    ],
     "require": {
         "php": ">=8.2",
         "symfony/dom-crawler": "^7.1"
