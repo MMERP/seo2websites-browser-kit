@@ -1,5 +1,5 @@
 {
-    "name": "symfony/browser-kit",
+    "name": "seo2websites/browser-kit",
     "type": "library",
     "description": "Simulates the behavior of a web browser, allowing you to make requests, click on links and submit forms programmatically",
     "keywords": [],
@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=8.2",
-        "symfony/dom-crawler": "^6.4|^7.0"
+        "symfony/dom-crawler": "^7.1"
     },
     "require-dev": {
         "symfony/css-selector": "^6.4|^7.0",
